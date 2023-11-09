@@ -8,7 +8,7 @@ This simple Python script converts an image into ASCII art. It utilizes the `PIL
    
 2. Install the required library using:
    
-pip install pillow
+`pip install pillow`
 
 3. Replace `'imagen.jpg'` with the path to your desired image.
 
